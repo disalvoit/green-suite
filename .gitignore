@@ -1,0 +1,4 @@
+node_modules/
+.grade/
+.nyc_output/
+*.log

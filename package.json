@@ -1,0 +1,13 @@
+{
+  "name": "green-suite",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An in-memory paginator whose test suite is green on main while the bug is real.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
